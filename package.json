@@ -29,6 +29,7 @@
     "@types/react-native": "^0.63.17",
     "@typescript-eslint/eslint-plugin": "5.30.6",
     "@typescript-eslint/parser": "5.30.6",
+    "expo-linear-gradient": "~12.0.1",
     "eslint": "8.19.0",
     "eslint-plugin-react-native": "4.0.0",
     "eslint-plugin-simple-import-sort": "7.0.0",
